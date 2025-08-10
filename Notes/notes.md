@@ -23,3 +23,6 @@
 | Use of dataset           | All data used to find fixed parameters     | All data used at prediction time for neighbors |
 | Prediction formula       | One global formula                          | Local formulas fitted on small neighborhoods |
 | Data summary             | Summarized into fixed number of parameters | Uses data directly without compression       |
+
+
+![Global vs Locally Weighted Regression](../images/LinearVsLocallyWeighted.png)
